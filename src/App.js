@@ -3,12 +3,14 @@ import "./App.scss";
 import AppRoutes from "./components/appRoutes/Approutes";
 import Header from "./components/header/Header";
 import {UserProvider} from  './context/UserContext'
+import User from "./components/user/User";
 const App = () => {
   return (
     <UserProvider>
       <Header />
       <div>
         <AppRoutes />
+        <User/>
       </div>
     </UserProvider>
   );
