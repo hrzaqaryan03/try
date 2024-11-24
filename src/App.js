@@ -9,6 +9,9 @@ const App = () => {
 
   console.log('boo');
   
+  console.log("ok");
+  
+
   return (
     <UserProvider>
       <Header />
