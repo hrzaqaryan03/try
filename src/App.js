@@ -7,9 +7,7 @@ import User from "./components/user/User";
 const App = () => {
 
 
-  console.log('boo');
-  
-  console.log("ok");
+  console.log("valod is dead");
   
 
   return (
