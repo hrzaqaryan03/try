@@ -5,6 +5,10 @@ import Header from "./components/header/Header";
 import {UserProvider} from  './context/UserContext'
 import User from "./components/user/User";
 const App = () => {
+
+  console.log("ok");
+  
+
   return (
     <UserProvider>
       <Header />
