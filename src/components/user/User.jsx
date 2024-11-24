@@ -4,7 +4,8 @@ const User = () => {
   return (
     <div>
         <h1>valo</h1>
-        <p>valod</p>
+        <p>valodsa</p>
+        <p>s</p>
     </div>
   )
 }
