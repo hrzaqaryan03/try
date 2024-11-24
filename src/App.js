@@ -8,6 +8,8 @@ const App = () => {
 
 
   console.log("valod is dead");
+
+  console.log('armen barev');
   
 
   return (
